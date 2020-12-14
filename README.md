@@ -1,2 +1,3 @@
-# unity_pong
-My Unity Version of Pong
+# Unity Pong!
+***
+My First Simple Unity Project based on Pong.
